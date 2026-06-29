@@ -38,6 +38,12 @@
        width="40"
        height="40"/>
 </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"
+       alt="Prisma"
+       width="40"
+       height="40"/>
+</a>
 </p>
 
 #### 📊 Data Science & AI
@@ -70,6 +76,30 @@
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/dbeaver" alt="DBeaver" width="40" height="40"/>
+</a>
+  <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/pgadmin4" alt="pgAdmin" width="40" height="40"/>
+</a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+       alt="GitHub"
+       width="40"
+       height="40"/>
+</a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
+       alt="IntelliJ IDEA"
+       width="40"
+       height="40"/>
+</a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+       alt="VS Code"
+       width="40"
+       height="40"/>
+</a>
 </p>
 <!--
 **dgmans21/dgmans21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
