@@ -79,9 +79,6 @@
   <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/dbeaver" alt="DBeaver" width="40" height="40"/>
 </a>
-  <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/pgadmin4" alt="pgAdmin" width="40" height="40"/>
-</a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
        alt="GitHub"
@@ -101,6 +98,10 @@
        height="40"/>
 </a>
 </p>
+🌍 GIS (Web Mapping / Spatial Data)
+- GeoServer (WMS/WFS)
+- PostGIS (Spatial DB)
+- OpenLayers (Web Map Library)
 <!--
 **dgmans21/dgmans21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
