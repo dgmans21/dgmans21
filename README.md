@@ -98,10 +98,11 @@
        height="40"/>
 </a>
 </p>
-🌍 GIS (Web Mapping / Spatial Data)
-- GeoServer (WMS/WFS)
-- PostGIS (Spatial DB)
-- OpenLayers (Web Map Library)
+🌍 GIS (Web Mapping Stack)
+
+- GeoServer : WMS/WFS Server
+- PostGIS : Spatial Database
+- OpenLayers : Web Mapping Library
 <!--
 **dgmans21/dgmans21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
