@@ -97,6 +97,20 @@
        width="40"
        height="40"/>
 </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"
+         alt="PyCharm"
+         width="40"
+         height="40"/>
+  </a>
+
+  <a href="https://cursor.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/cursor"
+         alt="Cursor AI"
+         width="40"
+         height="40"/>
+  </a>
+  
 </p>
 🌍 GIS (Web Mapping Stack)
 
