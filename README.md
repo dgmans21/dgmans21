@@ -57,9 +57,8 @@
 </a>
 <a href="https://keras.io/" target="_blank">
   <img src="https://keras.io/img/logo.png" width="40"/>
-</a>
-  <a href="https://radimrehurek.com/gensim/" target="_blank">
-  <img src="https://radimrehurek.com/gensim/_static/images/gensim_logo.png" width="40"/>
+<a href="https://radimrehurek.com/gensim/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
 </a>
 </p>
 
