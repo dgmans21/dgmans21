@@ -120,7 +120,6 @@
   </a>
   <a href="https://jupyter.org/" target="_blank">
   <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="40"/>
-</a>
 <a href="https://rockylinux.org/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/rockylinux/rockylinux-icon.svg" width="40" alt="Rocky Linux"/>
 </a>
