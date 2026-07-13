@@ -82,6 +82,9 @@
   <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" width="40" alt="CentOS"/>
 </a>
   </p>
+  <a href="https://supabase.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/supabase/supabase/master/apps/www/public/favicon/favicon-196x196.png" width="40" alt="Supabase"/>
+</a>
 
 #### 🛠️ Tools
 <p align="left">
