@@ -50,6 +50,10 @@
        width="40"
        height="40"/>
 </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/fastapi"
+       width="40"/>
+</a>
 </p>
 
 #### 📊 Data Science & AI
